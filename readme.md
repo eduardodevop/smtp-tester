@@ -6,7 +6,7 @@ With SMTP Tester you can easily test if an SMTP server works. You can also send 
 
 Execute the following command:
 
-`docker run --rm -p 80:80 eduardolol/smtp-tester:v1.0`
+`docker run --rm -p 80:80 eduardolol/smtp-tester:latest`
 
 Done! Just open your browser with the url of your docker host.
 
